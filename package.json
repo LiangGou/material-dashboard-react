@@ -1,7 +1,7 @@
 {
   "name": "material-dashboard-react",
-  "version": "1.10.0",
-  "description": "Material Dashboard React. Coded by Creative Tim",
+  "version": "0.3",
+  "description": "V3D Material Dashboard React",
   "private": false,
   "main": "dist/index.js",
   "dependencies": {

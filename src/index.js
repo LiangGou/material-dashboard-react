@@ -28,7 +28,7 @@ ReactDOM.render(
   <BrowserRouter>
     <Switch>
       <Route path="/admin" component={Admin} />
-      <Redirect from="/" to="/admin/dashboard" />
+      <Redirect from="/" to="/admin/data_explorer" />
     </Switch>
   </BrowserRouter>,
   document.getElementById("root")

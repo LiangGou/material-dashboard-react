@@ -1,6 +1,5 @@
 /*eslint-disable*/
 import React from "react";
-import PropTypes from "prop-types";
 // @material-ui/core components
 import { makeStyles } from "@material-ui/core/styles";
 import ListItem from "@material-ui/core/ListItem";
@@ -47,9 +46,9 @@ export default function Footer(props) {
               target="_blank"
               className={classes.a}
             >
-              Creative Tim
+              CR/RHI1-NA
             </a>
-            , made with love for a better web
+            , made with love for a better AI
           </span>
         </p>
       </div>
